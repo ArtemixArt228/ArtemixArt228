@@ -5,7 +5,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=artemixart228&label=Profile%20views&color=0e75b6&style=flat" alt="artemixart228" /> </p>
 
-- 🔭 I’m currently working on **Weather FullStack App**
+- 🔭 I’m currently working on **Coffee Fullstack App**
 
 - 🌱 I’m currently learning **React Native**
 
